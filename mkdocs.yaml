@@ -12,7 +12,7 @@ nav:
       - techstack/backstage/overview.md
     - WebMethods:
       - techstack/webmethods/index.md
-not_in_nav:
+not_in_nav: |
   index.md
 plugins:
   - search
