@@ -12,9 +12,8 @@ nav:
       - techstack/backstage/overview.md
     - WebMethods:
       - techstack/webmethods/index.md
-not_in_nav: |
+exclude_docs: |
   index.md
-  r/
 plugins:
   - search
   - techdocs-core
