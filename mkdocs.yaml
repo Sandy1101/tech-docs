@@ -8,10 +8,10 @@ nav:
   - TechStack:
     - techstack/index.md
     - Backstage:
-      - backstage/index.md
-      - backstage/overview.md
+      - techstack/backstage/index.md
+      - techstack/backstage/overview.md
     - WebMethods:
-      - webmethods/index.md
+      - techstack/webmethods/index.md
 plugins:
   - search
   - techdocs-core
