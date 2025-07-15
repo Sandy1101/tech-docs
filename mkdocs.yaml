@@ -14,6 +14,7 @@ nav:
       - techstack/webmethods/index.md
 not_in_nav: |
   index.md
+  r/
 plugins:
   - search
   - techdocs-core
