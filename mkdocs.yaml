@@ -1,6 +1,5 @@
-------
 site_name: TEK Documentation
-site_description: Documentation on Different Tech Stacks
+site_description: Documentation on Different Tech Stacks.
 repo_url: https://github.com/Sandy1101/tech-docs
 edit_url: blob/main/docs/
 docs_dir: docs
