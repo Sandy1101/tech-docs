@@ -17,4 +17,3 @@ not_in_nav: |
 plugins:
   - search
   - techdocs-core
-  - section-index
