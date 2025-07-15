@@ -7,11 +7,11 @@ docs_dir: docs
 nav:
   - TechStack:
     - techstack/index.md
-      - Backstage:
-        - backstage/index.md
-	- backstage/overview.md
-      - WebMethods:
-        - webmethods/index.md
+    - Backstage:
+      - backstage/index.md
+      - backstage/overview.md
+    - WebMethods:
+      - webmethods/index.md
 plugins:
   - search
   - techdocs-core
